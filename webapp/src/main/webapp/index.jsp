@@ -345,7 +345,7 @@
          </div>
       </div>
       <div class="field-inputs" style="margin:0.5rem 0px ;">
-        <h5>Rating 3 :</h5>
+        <h5>Rating to valaxy technologies :</h5>
         <div class="input-div" style="display: flex; gap:10px;">
           <input type="radio" id="bad3" name="rating3" value="bad">
           <label for="bad3">Bad</label><br>
